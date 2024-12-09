@@ -9,8 +9,10 @@
   - this design depends on which is easier inside the ecosystem. 
     - there's support for more complex queries, so, we can see. 
 
-- `/make_assignment` - educator-facing command - creates a new channel, a new assignment id, and does the same on the target canvas environment
+- `/make_assignment` - educator-facing command - , a new assignment id, and does the same on the target canvas environment
 
 
 
+tagging things with emojis can help for submissiony-connectivity
 
+We, as an organiziation, do not respect or participate in the concept of grading. 
