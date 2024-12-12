@@ -1,3 +1,5 @@
+first thought
+
 `/commands`
 
 - `/submit` - student-facing command - submits a full copy of the conversation, as well as the LAST full message + attachments specifically into a canvas submission folder organized in the same way as the server
@@ -13,7 +15,6 @@
 tagging things with emojis can help for submissiony-connectivity
 
 We, as an organiziation, do not respect or participate in the concept of grading. 
-s
 
 ---
 
@@ -57,3 +58,23 @@ Message components:
 - bot message panel -- button to bring up the ephemeral control panel for the user to interact with. 
 - not the same as embeds maybe?
 - modals - 
+
+
+
+--- 
+
+as far as next semester goes, skelly-bot doesn't need to be rebuilt
+- I do obviously need to integrate canvas stuff, though. 
+
+
+that said...
+- db checkpoints dumped into the server every day at midnight
+  - PROGRESS CAPTURE, prevents rollbacks, fully transparent, interoperable with local runs
+
+
+Most of the work this past semester was the Skellybot Analysis server
+- data re-scraping was a main concern
+- near the end, mongo querying...
+  - json-dump
+
+
