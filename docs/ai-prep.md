@@ -1,3 +1,9 @@
+---
+
+https://chatgpt.com/c/67574ac1-b6b8-8005-8f26-57bd58454c0c
+
+---
+
 To integrate your Discord bot with Canvas for posting reports and results, you'll primarily interact with Canvas's REST API. Here's a structured approach to get you started:
 
 **1. Authentication:**
@@ -54,7 +60,7 @@ Canvas uses OAuth2 for authentication. Your bot will need to obtain an access to
 
 Before deploying, thoroughly test your bot's interactions with Canvas in a controlled environment to ensure reliability and accuracy.
 
-By following this approach, your Discord bot should effectively interact with Canvas, allowing you to manage course content and submissions as intended. 
+By following this approach, your Discord bot should effectively interact with Canvas, allowing you to manage course content and submissions as intended.
 
 
 ---
