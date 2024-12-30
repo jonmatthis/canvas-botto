@@ -78,7 +78,7 @@ for assignment in assignments:
 # print(new_assignment)
 
 
-API_KEY_STUDENT = "7~3eFtDvNRuzHYwQHthfnN9K6EUw48YXWZzmcVcJCXcN492FXTVL67eNJTc8CTh6aR"
+API_KEY_STUDENT = ""
 canvas_student = Canvas(API_URL, API_KEY_STUDENT)
 
 course_student = canvas_student.get_course(course_id)
