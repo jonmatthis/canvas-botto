@@ -4,7 +4,7 @@ from canvasapi import Canvas
 # Canvas API URL
 API_URL = "https://canvas.instructure.com/"
 # Canvas API key
-API_KEY = "7~x4UBKVZHXvxFENwK9F9KzaRvwNtQKQYxmuHchrVyc6TGcyetExrmVHmzLa3kV4ht"
+API_KEY = ""
 
 
 # Initialize a new Canvas object
