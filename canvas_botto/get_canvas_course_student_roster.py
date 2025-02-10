@@ -31,3 +31,5 @@ def get_course_by_code(course_code: str):
 if __name__ == "__main__":
     course = get_course_by_code(course_code=CANVAS_COURSE_CODE)
     users = list(course.get_users())
+    for user in users:
+        print(user)
