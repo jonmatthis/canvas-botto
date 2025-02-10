@@ -8,6 +8,8 @@ load_dotenv()
 # Canvas API URL and Key
 API_URL = "https://canvas.instructure.com/"
 API_KEY = os.getenv('CANVAS_API_KEY')
+if API_KEY is None:
+    raise ValueError("Please set the CANVAS_API_KEY environment variable.")
 
 # Initialize a new Canvas object
 canvas = Canvas(API_URL, API_KEY)
