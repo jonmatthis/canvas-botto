@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "canvasapi>=3.3.0",
+    "pydantic>=2.10.6",
     "python-dotenv>=1.0.1",
 ]
